@@ -13,7 +13,7 @@
 	</div>
 	<div class="row">
 		<div class="col-lg-12 text-center padding-top">
-			<a class="button" href="posts.php">CHECK US OUT</a>
+			<a class="button" href="http://iwtsl.ehb.be/~robbe.vandendooren/WDA/wordpress/posts/">CHECK US OUT</a>
 		</div>
 	</div>
 </div>

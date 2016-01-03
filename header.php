@@ -10,6 +10,7 @@
 	<![endif]-->
 	<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/jquery.js"></script>
 	<link href="<?php echo get_template_directory_uri(); ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<script src="<?php echo get_template_directory_uri(); ?>/bootstrap/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" />
 	<script>
 		$(document).ready(function() {
@@ -33,7 +34,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="nav-logo navbar-brand" href="index.php">
+			<a class="nav-logo navbar-brand" href="http://iwtsl.ehb.be/~robbe.vandendooren/WDA/wordpress/">
 				<img src="http://placehold.it/150x50&text=Logo" alt="">
 			</a>
 		</div>
@@ -41,10 +42,10 @@
 		<div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-right">
 				<li>
-					<a href="about.php">About</a>
+					<a href="http://iwtsl.ehb.be/~robbe.vandendooren/WDA/wordpress/about/">About</a>
 				</li>
 				<li>
-					<a href="contact.php">Contact</a>
+					<a href="http://iwtsl.ehb.be/~robbe.vandendooren/WDA/wordpress/contact/">Contact</a>
 				</li>
 				<li>
 					<a href="http://iwtsl.ehb.be/~robbe.vandendooren/WDA/wordpress/posts/">Posts</a>
