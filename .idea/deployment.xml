@@ -15,6 +15,7 @@
             <excludedPath path="AWD/js" />
             <excludedPath path="AWD/images" />
             <excludedPath path="images" />
+            <excludedPath path="bootstrap" />
           </excludedPaths>
         </serverdata>
       </paths>
